@@ -8,4 +8,3 @@
 2. `cd scatter-plots-ixl-bot`
 3. `pip install -r requirements.txt`
 4. `./ixl.py username@example password`
-
