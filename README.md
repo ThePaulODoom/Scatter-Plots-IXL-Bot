@@ -1,5 +1,6 @@
 # Scatter Plots IXL Bot
 ## Dependencies
+* Python3 and PIP
 * A \*Nix system (Linux, BSD, Mac)
 * [Chromium](https://www.chromium.org/getting-involved/download-chromium) 
 * [Chromedriver](https://chromedriver.storage.googleapis.com/index.html) assosciated with your operating system and version of Chromium
